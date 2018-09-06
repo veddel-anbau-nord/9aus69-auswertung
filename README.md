@@ -9,7 +9,9 @@ Die Daten vom 1.9.2018 werden hier in den nächsten zwei Wochen veröffentlicht
 ## Credits
 
 Ein Projekt von **Veddel Anbau Nord** beim NEW HAMBURG Solipolis Festival, September 2018
+
 Konzept/Idee: Nicole Vrenegor, Ulf Treger
+
 Auswertung/Datenanalyse: Christian Zech
 
 ## Lizenz

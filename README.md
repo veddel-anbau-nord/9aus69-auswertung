@@ -2,9 +2,11 @@
 
 ## Auswertung 9 aus 69 (INSTAPLAN)
 
-Auswertung der Befragungen zum Veddeler Norden (mit 9aus69/Instaplan) inklusive Rohdaten
+Auswertung der Befragung zum Veddeler Norden (mit 9aus69/Instaplan) am 1.9.2018 inklusive Rohdaten
 
-Die Daten vom 1.9.2018 werden hier in den nächsten zwei Wochen veröffentlicht
+![Foto von der Befragung am 1.9](https://github.com/veddel-anbau-nord/9aus69-auswertung/blob/master/batch01/making_of_003.jpg?raw=true)
+
+Die Idee dieses Repositories ist es, die Ergebnisse einer Befragung transparent und weiterverarbeitbar zu machen. Unzählige Befragungen im Rahmen von Beteiligungsverfahren zu Stadtentwicklungsprojekten verschwinden in Schubladen oder finden sich nur als Resumée in Ideendokumenten wieder. Dieses Projekt versteht sich als Vorschlag, die wertvollen Feedbacks und Stellungnahmen von Bewohner*innen offenzulegen.
 
 ## Credits
 

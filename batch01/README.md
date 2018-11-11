@@ -23,15 +23,15 @@ Summe, gewichtet nach den Bildgruppen
 
 Favoriten, gewichtet 
 
-* B08
-* B07
-* B05
-* B04
-* I09
+* B08 ![B08](https://github.com/veddel-anbau-nord/9aus69-auswertung/blob/master/batch01/tops/veddel-anbau-nord-katalog-ok_B08.jpg)
+* B07 ![B07](https://github.com/veddel-anbau-nord/9aus69-auswertung/blob/master/batch01/tops/veddel-anbau-nord-katalog-ok_B07.jpg)
+* B05 ![B05](https://github.com/veddel-anbau-nord/9aus69-auswertung/blob/master/batch01/tops/veddel-anbau-nord-katalog-ok_B05.jpg)
+* L04 ![L04](https://github.com/veddel-anbau-nord/9aus69-auswertung/blob/master/batch01/tops/veddel-anbau-nord-katalog-ok_L04.jpg)
+* I09 ![I09](https://github.com/veddel-anbau-nord/9aus69-auswertung/blob/master/batch01/tops/veddel-anbau-nord-katalog-ok_I09.jpg)
 
 Flops (keine Auswahl)
 
-* B16
-* I06
+* B16 ![B16](https://github.com/veddel-anbau-nord/9aus69-auswertung/blob/master/batch01/flops/veddel-anbau-nord-katalog-ok_B16.jpg)
+* I07 ![I07](https://github.com/veddel-anbau-nord/9aus69-auswertung/blob/master/batch01/flops/veddel-anbau-nord-katalog-ok_I07.jpg)
 
 

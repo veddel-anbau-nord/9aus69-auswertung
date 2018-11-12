@@ -6,9 +6,9 @@
 
 Anzahl der Befragten: 33
 
-Davon 20 Bewohner*innen, 5 Menschen die auf der Veddel arbeiten, 8 Personen, die außerhalb der Veddel wohnen und arbeiten.
+Davon 20 Bewohner\*innen, 5 Menschen die auf der Veddel arbeiten, 8 Personen, die außerhalb der Veddel wohnen und arbeiten.
 
-Für die Auswertung wurden Beiträge von Bewohner*innen der Veddel wurden mit dem Faktor 3, von Menschen die auf der Veddel arbeiten mit Faktor 2 gewichtet.
+Für die Auswertung wurden Beiträge von Bewohner*innen der Veddel mit dem Faktor 3, von Menschen, die auf der Veddel arbeiten mit Faktor 2 gewichtet.
 
 Summe, gewichtet nach den Bildgruppen
 
@@ -29,7 +29,7 @@ Favoriten, gewichtet
 * L04 ![L04](https://github.com/veddel-anbau-nord/9aus69-auswertung/blob/master/batch01/tops/veddel-anbau-nord-katalog-ok_L04.jpg)
 * I09 ![I09](https://github.com/veddel-anbau-nord/9aus69-auswertung/blob/master/batch01/tops/veddel-anbau-nord-katalog-ok_I09.jpg)
 
-Flops (keine Auswahl)
+Flops (Karten, die kein einiziges Mal ausgewählt wurden)
 
 * B16 ![B16](https://github.com/veddel-anbau-nord/9aus69-auswertung/blob/master/batch01/flops/veddel-anbau-nord-katalog-ok_B16.jpg)
 * I07 ![I07](https://github.com/veddel-anbau-nord/9aus69-auswertung/blob/master/batch01/flops/veddel-anbau-nord-katalog-ok_I07.jpg)

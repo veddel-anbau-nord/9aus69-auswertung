@@ -6,11 +6,11 @@
 
 ![Foto von der Befragung am 1.9](https://github.com/veddel-anbau-nord/9aus69-auswertung/blob/master/batch01/making_of_003.jpg?raw=true)
 
-Die Idee dieses Repositories ist es, die Ergebnisse einer Befragung transparent und weiterverarbeitbar zu machen. Unzählige Befragungen im Rahmen von Beteiligungsverfahren zu Stadtentwicklungsprojekten verschwinden in Schubladen oder finden sich nur als gefiltertes und interpretiertes Resumée in "Ideendokumenten" wieder. 
+Die Idee dieses Repositories ist es, die Ergebnisse einer Befragung transparent und weiterverarbeitbar zu machen. Unzählige Befragungen im Rahmen von Beteiligungsverfahren zu Stadtentwicklungsprojekten verschwinden in Schubladen oder ihre Ergebnisse finden sich nur als gefiltertes und interpretiertes Resumée in "Ideendokumenten" wieder. 
 
-Dieses Projekt versteht sich als Vorschlag, die bei Befragungen gesammlten Feedbacks und Stellungnahmen von Bewohner*innen öffentlich zugänglich zu dokumentieren und die Auswertung offenzulegen. Wir haben dazu einen Bilderkatalog aus 69 Elementen entwickelt, der Bewohner*innen und anderen Interessierten zur Auswahl von 9 Elementen vorgelegt wurde. Gleichzeitige wurde die Teilnehmer*innen gebeten, ihre Wünsche kurz zu kommentieren und zusammenzufassen. 
+Dieses Projekt versteht sich als Vorschlag, die bei Befragungen gesammlten Feedbacks und Stellungnahmen von Bewohner\*innen öffentlich zugänglich zu dokumentieren und die Auswertung offenzulegen. Wir haben dazu einen Bilderkatalog aus 69 Elementen entwickelt, der Bewohner\*innen und anderen Interessierten zur Auswahl von 9 Elementen vorgelegt wurde. Gleichzeitige wurde die Teilnehmer\*innen gebeten, ihre Wünsche kurz zu kommentieren und zusammenzufassen. Eine erste Befragung mit diesem Katalog fand am [1.9.2018](https://github.com/veddel-anbau-nord/9aus69-auswertung/blob/master/batch01/README.md) statt.
 
-Weitere Informationen zur Befragung und seinem Kontext in Hamburg Veddel im [Projektwiki](https://wiki.veddel-anbau-nord.de/doku.php?id=ergebnisse)
+Weitere Informationen zur Befragung und seinem Kontext in Hamburg Veddel im [Wiki des Projekts Veddel Anbau Nord](https://wiki.veddel-anbau-nord.de/doku.php?id=ergebnisse)
 
 ## Credits
 

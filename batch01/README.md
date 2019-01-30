@@ -1,4 +1,4 @@
-# Hier plant die Veddel! 
+# Hier plant die Veddel!
 
 ## Befragung am 1.9.2018 beim Straßenfest 250 Jahre Veddel
 
@@ -6,11 +6,11 @@
 
 Anzahl der Befragten: 33
 
-Davon 20 Bewohner\*innen, 5 Menschen die auf der Veddel arbeiten, 8 Personen, die außerhalb der Veddel wohnen und arbeiten.
+Davon 20 Bewohner\*innen der Veddel, 5 Menschen die auf der Veddel arbeiten und 8 Personen, die außerhalb der Veddel wohnen und arbeiten.
 
-Für die Auswertung wurden Beiträge von Bewohner*innen der Veddel mit dem Faktor 3, von Menschen, die auf der Veddel arbeiten mit Faktor 2 gewichtet.
+Für die Auswertung wurden Beiträge von Bewohner*innen der Veddel mit dem Faktor 3, von Menschen, die auf der Veddel arbeiten mit Faktor 2 gewichtet. Stimmen der Bewohner*innen wurden dadurch deutlich stärker berücksichtigt, als die von Besucher*innen des Straßenfestes aus anderen Stadtteilen.
 
-Summe, gewichtet nach den Bildgruppen
+### Am meisten ausgewählte Bildgruppen (Summe, gewichtet)
 
 * B Business/Geschäfte 26%
 * L Leisure/Freizeit 22%
@@ -21,15 +21,19 @@ Summe, gewichtet nach den Bildgruppen
 * S Spritual/Religiöses 3,9%
 * X eigene Ergänzungen 1,9%
 
-Favoriten, gewichtet 
+### Favoriten
 
-* B08 ![B08](https://github.com/veddel-anbau-nord/9aus69-auswertung/blob/master/batch01/tops/veddel-anbau-nord-katalog-ok_B08.jpg)
-* B07 ![B07](https://github.com/veddel-anbau-nord/9aus69-auswertung/blob/master/batch01/tops/veddel-anbau-nord-katalog-ok_B07.jpg)
-* B05 ![B05](https://github.com/veddel-anbau-nord/9aus69-auswertung/blob/master/batch01/tops/veddel-anbau-nord-katalog-ok_B05.jpg)
-* L04 ![L04](https://github.com/veddel-anbau-nord/9aus69-auswertung/blob/master/batch01/tops/veddel-anbau-nord-katalog-ok_L04.jpg)
-* I09 ![I09](https://github.com/veddel-anbau-nord/9aus69-auswertung/blob/master/batch01/tops/veddel-anbau-nord-katalog-ok_I09.jpg)
+Am häufigsten ausgewählte Bildtafeln (Summe, gewichtet):
 
-Flops (Karten, die kein einiziges Mal ausgewählt wurden)
+1. B08 ![B08](https://github.com/veddel-anbau-nord/9aus69-auswertung/blob/master/batch01/tops/veddel-anbau-nord-katalog-ok_B08.jpg)
+2. B07 ![B07](https://github.com/veddel-anbau-nord/9aus69-auswertung/blob/master/batch01/tops/veddel-anbau-nord-katalog-ok_B07.jpg)
+3. B05 ![B05](https://github.com/veddel-anbau-nord/9aus69-auswertung/blob/master/batch01/tops/veddel-anbau-nord-katalog-ok_B05.jpg)
+4. L04 ![L04](https://github.com/veddel-anbau-nord/9aus69-auswertung/blob/master/batch01/tops/veddel-anbau-nord-katalog-ok_L04.jpg)
+5. I09 ![I09](https://github.com/veddel-anbau-nord/9aus69-auswertung/blob/master/batch01/tops/veddel-anbau-nord-katalog-ok_I09.jpg)
+
+### Flops
+
+Bildtafeln, die kein einziges Mal ausgewählt wurden:
 
 * B16 ![B16](https://github.com/veddel-anbau-nord/9aus69-auswertung/blob/master/batch01/flops/veddel-anbau-nord-katalog-ok_B16.jpg)
 * I07 ![I07](https://github.com/veddel-anbau-nord/9aus69-auswertung/blob/master/batch01/flops/veddel-anbau-nord-katalog-ok_I07.jpg)
